@@ -1,0 +1,38 @@
+body{
+	background-color:  #4dc3ff;
+	font-family: 'PT Serif', serif;
+}
+
+#title,
+#inputZip {
+	margin-left: auto;
+	margin-right: auto;
+	background-color: white;
+	text-align: center;
+	border: solid black 2px;
+	padding: 10px;
+	border-radius: 10px;
+}
+
+#inputZip {
+	margin-left: auto;
+	margin-right: auto;
+}
+
+#zipIn {
+	border: solid black 1px;
+	border-radius: 2px;
+	text-align: center;
+}
+
+.newForecast {
+	margin-left: auto;
+	margin-right: auto;
+	background-color: white;
+	text-align: center;
+	border: solid black 2px;
+	padding: 10px;
+	margin: 10px;
+	border-radius: 10px;
+
+}
